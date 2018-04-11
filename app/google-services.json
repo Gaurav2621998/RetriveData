@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "949662057881",
+    "firebase_url": "https://examplefirebaseweb.firebaseio.com",
+    "project_id": "examplefirebaseweb",
+    "storage_bucket": "examplefirebaseweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949662057881:android:7cb3adf4327e429a",
+        "android_client_info": {
+          "package_name": "com.example.gourav.retrivedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949662057881-gglsqnb9o86gekrannr6e677qb7emp5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gourav.retrivedata",
+            "certificate_hash": "17f0195246b2d2ea7e459dba6c1fba6fcb0017c4"
+          }
+        },
+        {
+          "client_id": "949662057881-7f9tdo127b1vl08t7hk7vseja3370g5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvenEqEbXHsplx9tl26gnYv4Ceyt4wks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949662057881-7f9tdo127b1vl08t7hk7vseja3370g5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949662057881:android:3381a9e1a2b00aa6",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.sniperdevelopermessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949662057881-t61no8b85p6b48aev243ptjdgd18v51v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.sniperdevelopermessenger",
+            "certificate_hash": "3a4965fa62ce963260b2f58e098548d81f317c17"
+          }
+        },
+        {
+          "client_id": "949662057881-7f9tdo127b1vl08t7hk7vseja3370g5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvenEqEbXHsplx9tl26gnYv4Ceyt4wks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949662057881-7f9tdo127b1vl08t7hk7vseja3370g5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
